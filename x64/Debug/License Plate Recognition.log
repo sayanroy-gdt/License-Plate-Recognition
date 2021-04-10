@@ -1,0 +1,4 @@
+﻿Source.obj : error LNK2005: "void __cdecl drawRedRectangleAroundPlate(class cv::Mat &,class PossiblePlate &)" (?drawRedRectangleAroundPlate@@YAXAEAVMat@cv@@AEAVPossiblePlate@@@Z) already defined in Main.obj
+Source.obj : error LNK2005: "void __cdecl writeLicensePlateCharsOnImage(class cv::Mat &,class PossiblePlate &)" (?writeLicensePlateCharsOnImage@@YAXAEAVMat@cv@@AEAVPossiblePlate@@@Z) already defined in Main.obj
+Source.obj : error LNK2005: main already defined in Main.obj
+E:\Projects\License Plate Recognition\x64\Debug\License Plate Recognition.exe : fatal error LNK1169: one or more multiply defined symbols found
